@@ -20,6 +20,10 @@
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+## Live Demo Link
+
+http://ec2-52-53-202-39.us-west-1.compute.amazonaws.com/
+
 ## Screenshots
 
 ![Screen Shot 2020-03-30 at 6 39 57 PM](https://user-images.githubusercontent.com/55271757/77973527-1630c580-72ba-11ea-9a9f-6fd906c88a45.png)
