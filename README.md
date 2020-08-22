@@ -22,7 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Live Demo Link
 
-http://ec2-52-53-202-39.us-west-1.compute.amazonaws.com/
+http://film-app-sac7.herokuapp.com/
 
 ## Screenshots
 
