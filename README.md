@@ -10,7 +10,7 @@
 ## Requirements
  - React >= 16.10
  - Node.js >= 8
- - Express.js = 4.17.1 
+ - Express.js = 4.17.1
 
 
 ## Running the Application
